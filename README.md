@@ -54,7 +54,7 @@ Feel free to connect or fork this project!
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/BobiButt/chatpg--PG-Chatbot-.git
+git clone https://github.com/BobiButt/pg-chatbot.git
 cd chatpg--PG-Chatbot-
 
 # 2. Create a virtual environment
@@ -79,7 +79,7 @@ python chatbot.py
 
 ```powershell
 # 1. Clone the repo
-git clone https://github.com/BobiButt/chatpg--PG-Chatbot-.git
+git clone https://github.com/BobiButt/pg-chatbot.git
 cd chatpg--PG-Chatbot-
 
 # 2. Create a virtual environment
